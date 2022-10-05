@@ -11,4 +11,4 @@ XML DOM - standard model for XML documents
 HTML DOM - standard model for HTML documents
 In HTML the javascript can be accessed by creating nodes
 
-
+WINDOW OBJECT : 
