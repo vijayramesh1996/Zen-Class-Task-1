@@ -1,0 +1,14 @@
+Question :
+ 
+Difference between Document object and Windows Object
+ 
+DOCUMENT OBJECT : 
+ 
+Document object model (DOM)  is a hierarchical structure which acts as an interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document.
+The W3C DOM standard is separated into 3 different parts:
+Core DOM - standard model for all document types
+XML DOM - standard model for XML documents
+HTML DOM - standard model for HTML documents
+In HTML the javascript can be accessed by creating nodes
+
+
