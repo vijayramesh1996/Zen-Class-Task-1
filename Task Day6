@@ -17,3 +17,20 @@ newstring = newstring + numsArr[i];
 
 }
 console.log(newstring);
+
+2 ) Write a code to print from last to first with spaces (Make sure there is no space after the last element 1)
+
+Output: 11 10 9 8 7 6 5 4 3 2 1
+
+Answers : 
+
+var new_string = "";
+ 
+for (var i = 11; i > 0; i--) 
+{
+ 
+new_string = new_string +" " + i
+ 
+}
+
+console.log(new_string.trim())
