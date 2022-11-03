@@ -1,0 +1,12 @@
+Write a blog difference between document object and window object.
+ 
+Window object : 
+ 
+  1) It represents the browser's window. All global JavaScript objects, functions, and variables automatically become members of the window object. 
+  2) Global variables are properties of the window object.
+  3) Global functions are methods of the window object.
+ 
+Document object : 
+
+1) Document object is a part of window object
+2) The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
